@@ -1,8 +1,8 @@
 # ESD21 - Infrastructure and Cloud Computing::: TerraForm
 
 ### Alunas: 
-Bruna Nyulas
-Danieli Silva dos Santos
+#### Bruna Nyulas
+#### Danieli Silva dos Santos
 
 ## Atividade:
 Subir uma máquina virtual no Azure, AWS ou GCP instalando o MySQL e que esteja acessível no host da máquina na porta 3306, usando Terraform. 
@@ -16,7 +16,7 @@ Subir uma máquina virtual no Azure, AWS ou GCP instalando o MySQL e que esteja 
 #### Pré-requisitos:::
 * Ter instalado o TerraForm;
 * Ter Assinatura do Azure;
-* Instalar a CLI do Azure.
+* Ter instalado a CLI do Azure.
 
 #### Como Executar:::
 * 1º - Efetue o clone do projeto com o seguinte comando: git clone https://github.com/danieliImpacta/TerraForm.git;
