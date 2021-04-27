@@ -1,8 +1,10 @@
 # ESD21 - Infrastructure and Cloud Computing::: TerraForm
 
+
 ### Alunas: 
-#### Bruna Nyulas
-#### Danieli Silva dos Santos
+##### Bruna Nyulas
+##### Danieli Silva dos Santos
+
 
 ## Atividade:
 Subir uma máquina virtual no Azure, AWS ou GCP instalando o MySQL e que esteja acessível no host da máquina na porta 3306, usando Terraform. 
